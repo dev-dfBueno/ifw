@@ -102,7 +102,7 @@ npm install qrcode-terminal whatsapp-web.js canvas fs image-size
 node your_script_name.js your_client_id
 ```
 
-Replace `your_script_name.js` with the actual name of the script file and `your_client_id` with your WhatsApp client ID.
+Replace `your_script_name.js` with the actual name of the script file WhatsApp.
 
 ## Functionality
 
