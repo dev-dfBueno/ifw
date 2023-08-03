@@ -30,10 +30,10 @@ npm install qrcode-terminal whatsapp-web.js canvas fs image-size
 4. Execute o script usando o seguinte comando:
 
 ```bash
-node seu_nome_do_script.js seu_id_do_cliente
+node seu_nome_do_script.js
 ```
 
-Substitua `seu_nome_do_script.js` pelo nome real do arquivo do script e `seu_id_do_cliente` pelo seu ID do cliente do WhatsApp.
+Substitua `seu_nome_do_script.js` pelo nome real do arquivo do script do WhatsApp.
 
 ## Funcionalidade
 
