@@ -15,11 +15,12 @@ Antes de executar o script, você precisa instalar as dependências necessárias
 3. [`canvas`](https://www.npmjs.com/package/canvas): Para processamento de imagens, adição de molduras e texto em imagens.
 4. [`fs`](https://nodejs.org/api/fs.html): O módulo de sistema de arquivos integrado do Node.js para leitura e gravação de arquivos.
 5. [`image-size`](https://www.npmjs.com/package/image-size): Para obter as dimensões das imagens.
+6. [`ansi-256-colors`](https://www.npmjs.com/package/ansi-256-colors): O módulo ansi-256-colors é utilizado para gerar cores ANSI de 256 cores no terminal.
 
 Você pode instalar essas dependências usando o seguinte comando:
 
 ```bash
-npm install qrcode-terminal whatsapp-web.js canvas fs image-size
+npm install qrcode-terminal whatsapp-web.js canvas fs image-size ansi-256-colors
 ```
 
 ## Como usar
